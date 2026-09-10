@@ -1,0 +1,23 @@
+- repo: aur
+  srcname: holo
+  binname: holo
+  visiblename: holo
+  version: 3.0.1
+  origversion: 3.0.1-1
+  status: unique
+  summary: Minimalistic configuration management
+  maintainers:
+    - majewsky@aur
+  licenses:
+    - GPL3
+- repo: parabola
+  subrepo: pcr
+  srcname: holo
+  binname: holo
+  visiblename: holo
+  version: "2.2"
+  origversion: 2.2-3.1
+  status: outdated
+  summary: Minimalistic configuration management
+  licenses:
+    - GPL3
