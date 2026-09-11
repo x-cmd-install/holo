@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1337744,
       "digest": "sha256:1c1a940bcac038f2ac8d63537cdfcb6366a3abaefb16602377184cb57d3926cf",
-      "download_count": 170,
+      "download_count": 171,
       "created_at": "2026-04-21T05:45:42Z",
       "updated_at": "2026-04-21T05:45:42Z",
       "browser_download_url": "https://github.com/measure-sh/holo/releases/download/v0.3.0/holo-x86_64-unknown-linux-gnu.tar.gz"
